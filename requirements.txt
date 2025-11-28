@@ -1,0 +1,8 @@
+customtkinter==5.2.2
+supabase==2.9.0
+pillow==10.2.0
+pynput==1.7.6
+psutil==5.9.6
+python-dateutil==2.8.2
+keyboard==0.13.5
+websockets==12.0
